@@ -1,5 +1,5 @@
 # certicaaz900-DBSQLDiO
-BD SQL no portal Azure
+## BD SQL no portal Azure
 
 O Azure SQL Database é o serviço de Banco de Dados Relacional como Serviço (PaaS) da Microsoft Azure.
 
